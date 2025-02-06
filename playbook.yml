@@ -1,5 +1,5 @@
 - name: "Test playbook run"
-  hosts: localhost
+  hosts: all
 
   tasks:
    - name: "Debug"
